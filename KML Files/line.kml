@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>line.kml</name>
+	<StyleMap id="m_autocad_107">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#s_autocad_107</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#s_autocad_1070</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="s_autocad_107">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LabelStyle>
+		</LabelStyle>
+		<LineStyle>
+		</LineStyle>
+		<PolyStyle>
+			<color>7fffffff</color>
+		</PolyStyle>
+	</Style>
+	<Style id="s_autocad_1070">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LabelStyle>
+		</LabelStyle>
+		<LineStyle>
+		</LineStyle>
+		<PolyStyle>
+			<color>7fffffff</color>
+		</PolyStyle>
+	</Style>
+	<Placemark>
+		<name>line</name>
+		<styleUrl>#m_autocad_107</styleUrl>
+		<LineString>
+			<tessellate>1</tessellate>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>
+				113.5286257392,22.3501238055,0 113.5295637945,22.3545421442,0 113.5311269528,22.3553777366,0 113.5299783004,22.3499689641,0 113.5313314106,22.3498140595,0 113.5325772539,22.3556807577,0 113.5344045554,22.3577591337,0 113.5326834891,22.3496592726,0 113.5340378763,22.3495042211,0 113.5357387204,22.35751548,0 113.536846329,22.3562048289,0 113.5353908088,22.3493493358,0 
+			</coordinates>
+		</LineString>
+	</Placemark>
+</Document>
+</kml>

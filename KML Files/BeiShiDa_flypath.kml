@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+<Document>
+<name>D:\2022.02 BeiShiDaZhuHai\KML Files\BeiShiDa_flypath.kml</name>
+<Folder>
+<name>From AutoCAD</name>
+<open>1</open>
+<Placemark>
+<name>line</name>
+<styleUrl>#m_autocad_107</styleUrl>
+<LineString>
+<tessellate>1</tessellate>
+<altitudeMode>relativeToGround</altitudeMode>
+<coordinates>
+113.5286257392,22.3501238055,0.0000000000
+113.5295637945,22.3545421442,0.0000000000
+113.5311269528,22.3553777366,0.0000000000
+113.5299783004,22.3499689641,0.0000000000
+113.5313314106,22.3498140595,0.0000000000
+113.5325772539,22.3556807577,0.0000000000
+113.5344045554,22.3577591337,0.0000000000
+113.5326834891,22.3496592726,0.0000000000
+113.5340378763,22.3495042211,0.0000000000
+113.5357387204,22.3575154800,0.0000000000
+113.5368463290,22.3562048289,0.0000000000
+113.5353908088,22.3493493358,0.0000000000
+</coordinates>
+</LineString>
+</Placemark>
+</Folder>
+<Style id="s_autocad_107">
+<IconStyle>
+<scale>1.1</scale>
+<Icon>
+</Icon>
+<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+</IconStyle>
+<LabelStyle>
+<color>FFffffff</color>
+</LabelStyle>
+<LineStyle>
+<color>ffffffff</color>
+</LineStyle>
+<PolyStyle>
+<color>7fffffff</color>
+</PolyStyle>
+</Style>
+<StyleMap id="m_autocad_107">
+<Pair>
+<key>normal</key>
+<styleUrl>#s_autocad_107</styleUrl>
+</Pair>
+<Pair>
+<key>highlight</key>
+<styleUrl>#s_autocad_107</styleUrl>
+</Pair>
+</StyleMap>
+<Style id="s_autocad_307">
+<IconStyle>
+<scale>1.1</scale>
+<Icon>
+</Icon>
+<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+</IconStyle>
+<LabelStyle>
+<color>FFffffff</color>
+</LabelStyle>
+<LineStyle>
+<color>ffffffff</color>
+<width>3</width>
+</LineStyle>
+<PolyStyle>
+<color>7fffffff</color>
+</PolyStyle>
+</Style>
+<StyleMap id="m_autocad_307">
+<Pair>
+<key>normal</key>
+<styleUrl>#s_autocad_307</styleUrl>
+</Pair>
+<Pair>
+<key>highlight</key>
+<styleUrl>#s_autocad_307</styleUrl>
+</Pair>
+</StyleMap>
+</Document>
+</kml>

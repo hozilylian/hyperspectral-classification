@@ -1,0 +1,16 @@
+# 数据与二进制文件按二进制处理，禁止行尾/编码转换
+*.dat -text
+*.npy -text
+*.tif -text
+*.TIF -text
+*.ovr -text
+*.tfw -text
+*.dxf -text
+*.png -text
+*.jpg -text
+*.docx -text
+*.pptx -text
+*.pdf -text
+*.exe -text
+*.sav -text
+*.zip -text
